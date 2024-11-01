@@ -13,6 +13,15 @@ Heute habe ich mal wieder an Modul 320 gearbeitet. Am ersten November 4 November
 
 ## Arbeitspakete 1.11.24
 
-- [ ] Aufgabe 4211 fertig lösen
-- [ ] Aufgabe 4212 nochmal lösen 
-- [ ] PPP wieder repetieren 
+- [x] Aufgabe 4211 fertig lösen
+- [x] Aufgabe 4212 nochmal lösen 
+- [x] PPP wieder repetieren 
+
+Heute habe ich mal wieder an Modul 320 weitergearbeitet. Oder besser gesagt ich habe repertiert. Bei Aufgabe 4212 hatte ich einbischen mühe da ich nicht wusste was in der Methode rein muss. Bei 4211 hatte ich so gut wie keine Probleme und ich habe noch alle PPP angesehen um alles aufzufrischen. Die Prüfung macht mich ziemlich nervös. Ich hoffe ich falle nicht durch.
+
+
+## Arbeitspakete 8.11.24
+
+- [ ] Java Script Grundlagen repetieren
+- [ ] Aufgaben von Modul 294 fertig lösen 
+      
