@@ -40,5 +40,7 @@ Heute habe ich ein Paar Aufgaben nachgearbeitet die ich noch nocht so gut versta
 
 - [ ] Aufgaben von Modul 346 fertig lösen
 - [ ] Aufgaben von Modul 294 fertig lösen
-- [ ] Aufgaben von Modul 450 fertig lösen 
+- [ ] Aufgaben von Modul 450 fertig lösen
+
+Heute habe ich wie angekündigt an verschiedene Modulen weitergearbeit. Angefangen habe ich mit M450, da musste ich ein paar UML Diagramme in Code umsetzen und das verlief rebungslos. Danach habe ich bei M346 keine Aufgaben gelöst sondern erklärungsvideos angeschaut wie man z.B eine Virtuelle maschine auf AWS erstellt. Bei M294 habe ich wiederrum Java Skript repetiert da ich ab und zu nicht weiss was ich programmieren soll und das ist sehr frustrierend. Nächstes Mal habe ich ein Gespäch bei ihnen und ich werde sehr wahrscheinlich an diesen Modulen weiterarbeiten. 
 
