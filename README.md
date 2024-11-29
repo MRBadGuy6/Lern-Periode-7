@@ -47,5 +47,12 @@ Heute habe ich wie angekündigt an verschiedene Modulen weitergearbeit. Angefang
 # Arbeitspakete für 29.11.24
 
 - [ ] Aufgaben von Modul 346 fertig lösen
+- [x] Aufgaben von Modul 294 fertig lösen
+- [x] Aufgaben von Modul 450 fertig lösen
+
+Der Tag war heute ruhiger als sonst. Ich habe an Modul 450 weitergearbeitet und ausserdem habe ich für die OBA in Modul 294 geübt. Ich habe dafür eine ZUsammenfassung erstellt aus dem Kahoot das sie uns gegeben hat. Ironischerweise ist der Link abgelaufen. Allerdings habe ich zu jeder Frage einen Printscreen gemacht. Auch habe ich mir ein Paar Videos zu Javaskript angehen da ich nicht überzeugt bin das ich javaskript benutzen kann. Und joa das wäre es für heute. Nächstes mal werde ich höchstwahrscheinlich an diesen Modulen weiterarbeiten. 
+
+# Arbeitspakete für 6.12.24
+
 - [ ] Aufgaben von Modul 294 fertig lösen
 - [ ] Aufgaben von Modul 450 fertig lösen
