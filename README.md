@@ -55,4 +55,12 @@ Der Tag war heute ruhiger als sonst. Ich habe an Modul 450 weitergearbeitet und 
 # Arbeitspakete für 6.12.24
 
 - [ ] Aufgaben von Modul 294 fertig lösen
+- [ ] Erklärungsvideo ansehen über Javaskript
+- [ ] Java skript repetieren
+
+Heute habe ich Grundsätzlich an Modul 294 gearbeitet. Gestern habe ich mit Vincent das Modul 346 abgeschlossen was um eineiges anspruchsvoll war. Aber wenigstens habe ich es jetzt hinter mir. Ich habe ein 90 Minütiges erklärungsvideo zu Java script angesehen, da ich der überzeugung bin das ich Java script immer noch nicht behersche. Anschlissend habe ich die Grundlagen von Java Skript nochmal repetiert. Ging einigermasen gut. Ich habe allerdings an keinen neuen Aufgaben gearbeitet sondern ich habe sie repetiert um herauszufiden ob ich die Theman auch verstanden habe. Das nächste mal werde ich sicher Modul 450 im Angriff nehmen. 
+
+# Arbeitspakete für 13.12.24
+
+- [ ] Java Scipt repetieren 
 - [ ] Aufgaben von Modul 450 fertig lösen
