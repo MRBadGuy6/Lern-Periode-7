@@ -22,8 +22,8 @@ Heute habe ich mal wieder an Modul 320 weitergearbeitet. Oder besser gesagt ich 
 
 ## Arbeitspakete 8.11.24
 
-- [ ] Aufgaben von Modul 346 fertig lösen
-- [ ] Aufgaben von Modul 294 fertig lösen 
+- [x] Aufgaben von Modul 346 fertig lösen
+- [x] Aufgaben von Modul 294 fertig lösen 
 
 
 Dieses Mal habe ich nicht an Modul 320 gearbeitet weil wir ihn diesen Montag abgeschlossen haben. Die Prüfung hat mich schon ein bisschen abgeschrekt. Naja auf jeden Fall hatte ich tatsächlich ein Paar ungelöste Aufträge in Modul 346 und in 294. Bei Modul 346 musste ich über Cloud Migration recherchieren und bei Modul 294 habe ich jsaon kennengelernt. Ich mag json sehr weil die Sprache ser verstädnlich ist. Alles in allem habe ich heute gut gearbeitet. Nächstes Mal werde ich sicher mich an anderen Modulen widmen 
@@ -54,9 +54,9 @@ Der Tag war heute ruhiger als sonst. Ich habe an Modul 450 weitergearbeitet und 
 
 # Arbeitspakete für 6.12.24
 
-- [ ] Aufgaben von Modul 294 fertig lösen
+- [x] Aufgaben von Modul 294 fertig lösen
 - [ ] Erklärungsvideo ansehen über Javaskript
-- [ ] Java skript repetieren
+- [x] Java skript repetieren
 
 Heute habe ich Grundsätzlich an Modul 294 gearbeitet. Gestern habe ich mit Vincent das Modul 346 abgeschlossen was um eineiges anspruchsvoll war. Aber wenigstens habe ich es jetzt hinter mir. Ich habe ein 90 Minütiges erklärungsvideo zu Java script angesehen, da ich der überzeugung bin das ich Java script immer noch nicht behersche. Anschlissend habe ich die Grundlagen von Java Skript nochmal repetiert. Ging einigermasen gut. Ich habe allerdings an keinen neuen Aufgaben gearbeitet sondern ich habe sie repetiert um herauszufiden ob ich die Theman auch verstanden habe. Das nächste mal werde ich sicher Modul 450 im Angriff nehmen. 
 
