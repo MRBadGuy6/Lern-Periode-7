@@ -62,5 +62,11 @@ Heute habe ich Grundsätzlich an Modul 294 gearbeitet. Gestern habe ich mit Vinc
 
 # Arbeitspakete für 13.12.24
 
-- [ ] Java Scipt repetieren 
-- [ ] Aufgaben von Modul 450 fertig lösen
+- [x] Java Scipt repetieren 
+- [x] Aufgaben von Modul 450 fertig lösen
+
+Heute habe ich nur an zwei Modulen gearbeitet. Zu erst habe ich das Turorial zu Java Skript angesehen. Anschliessend habe ich an LB 450 gebarbeitet. Ich habe schon bereits am Montag begonnen damit ich nicht zu sher hinten drann bin aber joa ich würde sagen ich habe schon grosse fortschritte gemacht. Ich habe testfälle geschriben einen Klassendiagramm erstellt und ich habe angefangen den Code dazu zu schreiben. Nächstes mal werde ich sicher an LB M450 weiterarbeiten. 
+
+# Arbeitspakete für 20.12.24
+
+- [ ] An LB M450 weiterarbeiten 
