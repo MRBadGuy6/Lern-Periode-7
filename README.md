@@ -69,4 +69,6 @@ Heute habe ich nur an zwei Modulen gearbeitet. Zu erst habe ich das Turorial zu 
 
 # Arbeitspakete für 20.12.24
 
-- [ ] An LB M450 weiterarbeiten 
+- [x] An LB M450 weiterarbeiten
+
+Heute habe ich wie versprochen an M450 weiter gearbeitet. Ich hane den Code geschrieben für die LB und ich muss sagen das es sehr gut aussieht. Ausserdem habe ich kuchen gegessen und das wars. Mehr habe ich für heute nicht mehr gemacht. 
